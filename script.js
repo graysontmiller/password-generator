@@ -53,10 +53,10 @@ function generatePassword() {
   for(var i=0;i<length;i++){
     var charSet = possibleChar[Math.floor(Math.random()*possibleChar.length)]
     var char = charSet[Math.floor(Math.random()*charSet.length)]
-    result += char;
+    results += char;
   }
 
-  return result
+  return results
   };
 
 //Write password to #password input
