@@ -8,7 +8,7 @@ This project was made for challenge #3 in the UNCC Web Development boot-camp. Th
 
 [Access application here]()
 
-![Display Image](/Page-Screenshot.png)
+![Display Image](/Assets/Page-Screenshot.png)
 
 # How to Use
 
